@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.REVIEW one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.review        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.review      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.review        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.review      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.review  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.review      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.review  | available | 58       | 7%     | 9      |           |         |         |

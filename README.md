@@ -1,22 +1,22 @@
-# Available .REVIEW One-Word Domains (5,621,975)
+# Available .REVIEW One-Word Domains (9,749)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C749%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C975%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C749%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .review one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .review one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,749-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,975 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,749 rows · **Live catalog:** 5,621,975 domains
+**Public extract:** 9,749 rows · **Live catalog:** 9,749 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/review`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | masterly.review   | available | $15.73    | —             | 79             | 18     | 8      | namecheap        |
 | service.review    | resell    | —         | —             | 70             | 41     | 7      | GoDaddy.com, LLC |
 | power.review      | premium   | $3,250    | $130          | 98             | 62     | 5      | namecheap        |
-| actionable.review | available | $15.73    | —             | 88             | 15     | 10     | namecheap        |
+| actionable.review | available | $15.73    | —             | 88             | 14     | 10     | namecheap        |
 | newyear.review    | resell    | —         | —             | —              | 11     | 8      | Dynadot Inc      |
 | seventeen.review  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com         |
-| twentytwo.review  | available | $15.73    | —             | 84             | 14     | 10     | namecheap        |
-| ace.review        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com         |
-| playing.review    | available | $15.73    | —             | 74             | 14     | 7      | namecheap        |
-| zero.review       | premium   | $437.50   | $62.50        | 112            | 53     | 4      | name.com         |
 | covered.review    | available | $15.73    | —             | 74             | 14     | 7      | namecheap        |
-| alpha.review      | premium   | $1,250    | $125          | 90             | 53     | 5      | name.com         |
+| ace.review        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com         |
 | designed.review   | available | $15.73    | —             | 64             | 14     | 8      | namecheap        |
+| alpha.review      | premium   | $1,250    | $125          | 90             | 54     | 5      | name.com         |
+| playing.review    | available | $15.73    | —             | 74             | 13     | 7      | namecheap        |
+| zero.review       | premium   | $437.50   | $62.50        | 112            | 53     | 4      | name.com         |
+| screening.review  | available | $15.73    | —             | 70             | 13     | 9      | namecheap        |
 | athletics.review  | premium   | $455      | $65           | 69             | 52     | 9      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,749-row public sample | 5,621,975 live domains                           |
+| 9,749-row public sample | 9,749 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

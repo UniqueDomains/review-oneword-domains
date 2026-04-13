@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .review one-word domains from Uniq
 
 **Public extract:** 9,749 rows · **Live catalog:** 9,749 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/review`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | wallet.review     | resell    | —         | —             | 74             | 54     | 6      | GoDaddy.com, LLC |
 | nationwide.review | premium   | $12,500   | $125          | 76             | 66     | 10     | name.com         |
 | cooked.review     | available | $15.73    | —             | 70             | 21     | 6      | namecheap        |
-| bloom.review      | resell    | —         | —             | 72             | 52     | 5      | GoDaddy.com, LLC |
+| bloom.review      | resell    | —         | —             | 72             | 53     | 5      | GoDaddy.com, LLC |
 | easy.review       | premium   | $3,125    | $125          | 128            | 62     | 4      | name.com         |
 | masterly.review   | available | $15.73    | —             | 79             | 18     | 8      | namecheap        |
 | service.review    | resell    | —         | —             | 70             | 41     | 7      | GoDaddy.com, LLC |
@@ -79,9 +79,9 @@ print(df.head())
 | covered.review    | available | $15.73    | —             | 74             | 14     | 7      | namecheap        |
 | ace.review        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com         |
 | designed.review   | available | $15.73    | —             | 64             | 14     | 8      | namecheap        |
-| alpha.review      | premium   | $1,250    | $125          | 90             | 54     | 5      | name.com         |
-| playing.review    | available | $15.73    | —             | 74             | 13     | 7      | namecheap        |
 | zero.review       | premium   | $437.50   | $62.50        | 112            | 53     | 4      | name.com         |
+| playing.review    | available | $15.73    | —             | 74             | 13     | 7      | namecheap        |
+| alpha.review      | premium   | $1,250    | $125          | 90             | 53     | 5      | name.com         |
 | screening.review  | available | $15.73    | —             | 70             | 13     | 9      | namecheap        |
 | athletics.review  | premium   | $455      | $65           | 69             | 52     | 9      | namecheap        |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

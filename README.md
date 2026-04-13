@@ -67,22 +67,22 @@ print(df.head())
 | curative.review   | available | $15.73    | —             | 92             | 27     | 8      | namecheap        |
 | wallet.review     | resell    | —         | —             | 74             | 54     | 6      | GoDaddy.com, LLC |
 | nationwide.review | premium   | $12,500   | $125          | 76             | 66     | 10     | name.com         |
-| cooked.review     | available | $15.73    | —             | 70             | 21     | 6      | namecheap        |
+| cooked.review     | available | $15.73    | —             | 70             | 20     | 6      | namecheap        |
 | bloom.review      | resell    | —         | —             | 72             | 53     | 5      | GoDaddy.com, LLC |
 | easy.review       | premium   | $3,125    | $125          | 128            | 62     | 4      | name.com         |
 | masterly.review   | available | $15.73    | —             | 79             | 18     | 8      | namecheap        |
 | service.review    | resell    | —         | —             | 70             | 41     | 7      | GoDaddy.com, LLC |
 | power.review      | premium   | $3,250    | $130          | 98             | 62     | 5      | namecheap        |
-| actionable.review | available | $15.73    | —             | 88             | 14     | 10     | namecheap        |
+| covered.review    | available | $15.73    | —             | 74             | 15     | 7      | namecheap        |
 | newyear.review    | resell    | —         | —             | —              | 11     | 8      | Dynadot Inc      |
 | seventeen.review  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com         |
-| covered.review    | available | $15.73    | —             | 74             | 14     | 7      | namecheap        |
+| actionable.review | available | $15.73    | —             | 88             | 14     | 10     | namecheap        |
 | ace.review        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com         |
-| designed.review   | available | $15.73    | —             | 64             | 14     | 8      | namecheap        |
-| zero.review       | premium   | $437.50   | $62.50        | 112            | 53     | 4      | name.com         |
 | playing.review    | available | $15.73    | —             | 74             | 13     | 7      | namecheap        |
-| alpha.review      | premium   | $1,250    | $125          | 90             | 53     | 5      | name.com         |
+| zero.review       | premium   | $437.50   | $62.50        | 112            | 53     | 4      | name.com         |
 | screening.review  | available | $15.73    | —             | 70             | 13     | 9      | namecheap        |
+| alpha.review      | premium   | $1,250    | $125          | 90             | 53     | 5      | name.com         |
+| designed.review   | available | $15.73    | —             | 64             | 13     | 8      | namecheap        |
 | athletics.review  | premium   | $455      | $65           | 69             | 52     | 9      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

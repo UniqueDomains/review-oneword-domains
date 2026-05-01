@@ -1,10 +1,10 @@
-# Available .REVIEW One-Word Domains (12,249)
+# Available .REVIEW One-Word Domains (12,694)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C249%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C694%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .review one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,249 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,694 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,249 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,694 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/review`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Containers.review    | available | $11.99    | $11.99        | 54             | 17     | 10     | namesilo        |
-| webmasters.review    | resell    | —         | —             | 52             | 12     | 10     | Spaceship, Inc. |
-| insight.review       | premium   | $125      | —             | 76             | 69     | 8      | name.com        |
-| happier.review       | available | $15.73    | —             | 62             | 16     | 7      | namecheap       |
-| webcontent.review    | resell    | —         | —             | 78             | 5      | 11     | NameCheap, Inc. |
-| donuts.review        | premium   | $1,250    | —             | 54             | 62     | 6      | name.com        |
-| holdings.review      | available | $15.73    | —             | 52             | 14     | 8      | namecheap       |
-| RedSox.review        | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
-| counselling.review   | available | $15.73    | —             | 82             | 13     | 11     | namecheap       |
-| regions.review       | premium   | $3,125    | —             | 64             | 59     | 7      | name.com        |
-| letus.review         | available | $15.73    | —             | 79             | 13     | 6      | namecheap       |
-| keepthechange.review | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
-| texting.review       | available | $15.73    | —             | 72             | 13     | 7      | namecheap       |
-| agents.review        | premium   | $6,250    | —             | 56             | 50     | 6      | name.com        |
-| launched.review      | available | $15.73    | —             | 65             | 13     | 8      | namecheap       |
-| robots.review        | premium   | $1,107    | $116          | 62             | 47     | 6      | namesilo        |
-| niggers.review       | available | $15.73    | —             | 37             | 13     | 7      | namecheap       |
-| Ryan.review          | premium   | $490      | $70           | 60             | 44     | 4      | namecheap       |
-| runs.review          | available | $15.73    | —             | 68             | 12     | 4      | namecheap       |
-| Tools.review         | premium   | $7,000    | $140          | 56             | 40     | 5      | namecheap       |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| happier.review      | available | $15.73    | —             | 62             | 16     | 7      | namecheap       |
+| webcontent.review   | resell    | —         | —             | 78             | 5      | 11     | NameCheap, Inc. |
+| insight.review      | premium   | $125      | —             | 76             | 69     | 8      | name.com        |
+| holdings.review     | available | $15.73    | —             | 52             | 14     | 8      | namecheap       |
+| donuts.review       | premium   | $1,250    | —             | 54             | 62     | 6      | name.com        |
+| counselling.review  | available | $15.73    | —             | 82             | 13     | 11     | namecheap       |
+| RedSox.review       | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
+| letus.review        | available | $15.73    | —             | 79             | 13     | 6      | namecheap       |
+| regions.review      | premium   | $3,125    | —             | 64             | 59     | 7      | name.com        |
+| niggers.review      | available | $15.73    | —             | 37             | 13     | 7      | namecheap       |
+| agents.review       | premium   | $6,250    | —             | 56             | 50     | 6      | name.com        |
+| runs.review         | available | $15.73    | —             | 68             | 12     | 4      | namecheap       |
+| Ryan.review         | premium   | $490      | $70           | 60             | 44     | 4      | namecheap       |
+| gives.review        | available | $15.73    | —             | 52             | 12     | 5      | namecheap       |
+| Tools.review        | premium   | $7,000    | $140          | 56             | 40     | 5      | namecheap       |
+| toomuch.review      | available | $15.73    | —             | 78             | 11     | 8      | namecheap       |
+| aliens.review       | premium   | $437.50   | —             | 56             | 35     | 6      | name.com        |
+| notarypublic.review | available | $15.73    | —             | 66             | 11     | 13     | namecheap       |
+| homes.review        | premium   | $12,500   | —             | 86             | 34     | 5      | name.com        |
+| opens.review        | available | $11.99    | $11.99        | 60             | 11     | 5      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,249 live domains                              |
+| 1,000-row public sample | 12,694 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .review one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,694 domains · **Median ask:** $797.63 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/review`  
 **Best for:** founders, investors, studios
 
@@ -66,12 +66,12 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | barup.review       | available | $15.73    | —             | 82             | 2      | 6      | namecheap       |
 | geton.review       | available | $15.73    | —             | 82             | 10     | 6      | namecheap       |
-| rumcake.review     | available | $15.73    | —             | 81             | 3      | 8      | namecheap       |
+| rumcake.review     | available | $15.73    | —             | 81             | 2      | 8      | namecheap       |
 | chaitea.review     | available | $15.73    | —             | 86             | 3      | 8      | namecheap       |
 | WhatsApp.review    | premium   | —         | —             | 90             | 84     | 8      | —               |
 | dogstail.review    | available | $15.73    | —             | 94             | 1      | 8      | namecheap       |
 | cuddleup.review    | available | $15.73    | —             | 89             | 4      | 9      | namecheap       |
-| makewhole.review   | available | $15.73    | —             | 80             | 2      | 10     | namecheap       |
+| makewhole.review   | available | $15.73    | —             | 80             | 1      | 10     | namecheap       |
 | happier.review     | available | $15.73    | —             | 62             | 16     | 7      | namecheap       |
 | webcontent.review  | resell    | —         | —             | 78             | 5      | 11     | NameCheap, Inc. |
 | insight.review     | premium   | $125      | —             | 76             | 69     | 8      | name.com        |
@@ -79,9 +79,9 @@ print(df.head())
 | donuts.review      | premium   | $1,250    | —             | 54             | 62     | 6      | name.com        |
 | counselling.review | available | $15.73    | —             | 82             | 13     | 11     | namecheap       |
 | RedSox.review      | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
-| letus.review       | available | $15.73    | —             | 79             | 13     | 6      | namecheap       |
-| regions.review     | premium   | $3,125    | —             | 64             | 59     | 7      | name.com        |
 | niggers.review     | available | $15.73    | —             | 37             | 13     | 7      | namecheap       |
+| regions.review     | premium   | $3,125    | —             | 64             | 59     | 7      | name.com        |
+| letus.review       | available | $15.73    | —             | 79             | 12     | 6      | namecheap       |
 | agents.review      | premium   | $6,250    | —             | 56             | 50     | 6      | name.com        |
 | runs.review        | available | $15.73    | —             | 68             | 12     | 4      | namecheap       |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

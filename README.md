@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .review one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,694 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,694 domains · **Median ask:** $797.63 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,694 domains · **Median ask:** $926.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/review`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| barup.review       | available | $15.73    | —             | 82             | 2      | 6      | namecheap       |
-| geton.review       | available | $15.73    | —             | 82             | 10     | 6      | namecheap       |
-| rumcake.review     | available | $15.73    | —             | 81             | 2      | 8      | namecheap       |
-| chaitea.review     | available | $15.73    | —             | 86             | 3      | 8      | namecheap       |
-| WhatsApp.review    | premium   | —         | —             | 90             | 84     | 8      | —               |
-| dogstail.review    | available | $15.73    | —             | 94             | 1      | 8      | namecheap       |
-| cuddleup.review    | available | $15.73    | —             | 89             | 4      | 9      | namecheap       |
-| makewhole.review   | available | $15.73    | —             | 80             | 1      | 10     | namecheap       |
-| happier.review     | available | $15.73    | —             | 62             | 16     | 7      | namecheap       |
-| webcontent.review  | resell    | —         | —             | 78             | 5      | 11     | NameCheap, Inc. |
-| insight.review     | premium   | $125      | —             | 76             | 69     | 8      | name.com        |
-| holdings.review    | available | $15.73    | —             | 52             | 14     | 8      | namecheap       |
-| donuts.review      | premium   | $1,250    | —             | 54             | 62     | 6      | name.com        |
-| counselling.review | available | $15.73    | —             | 82             | 13     | 11     | namecheap       |
-| RedSox.review      | premium   | $490      | $70           | 72             | 60     | 7      | namecheap       |
-| niggers.review     | available | $15.73    | —             | 37             | 13     | 7      | namecheap       |
-| regions.review     | premium   | $3,125    | —             | 64             | 59     | 7      | name.com        |
-| letus.review       | available | $15.73    | —             | 79             | 12     | 6      | namecheap       |
-| agents.review      | premium   | $6,250    | —             | 56             | 50     | 6      | name.com        |
-| runs.review        | available | $15.73    | —             | 68             | 12     | 4      | namecheap       |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| creative.review          | premium   | $1,250    | $125          | 92             | 46     | 8      | name.com  |
+| anti.review              | premium   | —         | —             | 82             | 29     | 4      | —         |
+| manifest.review          | premium   | —         | —             | 92             | 41     | 8      | —         |
+| made.review              | premium   | $625      | —             | 82             | 34     | 4      | name.com  |
+| clothes.review           | premium   | $3,125    | —             | 82             | 19     | 7      | name.com  |
+| function.review          | premium   | $116      | $29.50        | 92             | 25     | 8      | namesilo  |
+| washing.review           | premium   | $116      | $29.50        | 88             | 9      | 7      | namesilo  |
+| afternoon.review         | premium   | $1,107    | $116          | 106            | 11     | 9      | namesilo  |
+| goldenopportunity.review | premium   | $437.50   | —             | 80             | 3      | 18     | name.com  |
+| recover.review           | premium   | $437.50   | —             | 97             | 23     | 7      | name.com  |
+| friendly.review          | premium   | $1,107    | $116          | 104            | 32     | 8      | namesilo  |
+| grandfatherinlaw.review  | available | $11.99    | $11.99        | 80             | 1      | 18     | namesilo  |
+| star.review              | premium   | $1,250    | $125          | 86             | 42     | 4      | name.com  |
+| through.review           | premium   | $125      | $37.99        | 92             | 11     | 7      | name.com  |
+| enduring.review          | premium   | —         | —             | 82             | 9      | 8      | —         |
+| event.review             | premium   | $3,250    | $130          | 96             | 45     | 5      | namecheap |
+| dry.review               | premium   | $625      | $81.25        | 80             | 22     | 3      | name.com  |
+| jacket.review            | premium   | $625      | —             | 94             | 10     | 6      | name.com  |
+| pepsicola.review         | available | $11.99    | $11.99        | 82             | 6      | 10     | namesilo  |
+| ana.review               | premium   | $625      | —             | 80             | 32     | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

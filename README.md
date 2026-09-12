@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .review one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,929 domains · **Median ask:** $566.79 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/review`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| out.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
 | aide.review    | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
 | service.review | resell    | —         | —             | medium         | medium | 7      | GoDaddy.com, LLC |
 | ana.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
@@ -83,7 +84,6 @@ print(df.head())
 | hat.review     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com         |
 | sued.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
 | hug.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| xxxi.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

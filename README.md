@@ -1,10 +1,10 @@
-# Available .REVIEW One-Word Domains (22,929)
+# Available .REVIEW One-Word Domains (24,200)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C929%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C200%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .review one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,929 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,200 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,929 domains · **Median ask:** $566.79 · **High-demand under $2,500:** 24
+**Public extract:** 1,000 rows · **Live catalog:** 24,200 domains · **Median ask:** $546.73 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/review`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
 | aide.review    | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
 | service.review | resell    | —         | —             | medium         | medium | 7      | GoDaddy.com, LLC |
 | ana.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
@@ -81,9 +80,10 @@ print(df.head())
 | lxxi.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
 | gee.review     | premium   | $625      | —             | medium         | low    | 3      | name.com         |
 | seat.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
-| hat.review     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com         |
+| hat.review     | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo         |
 | sued.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
 | hug.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| xxxi.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,929 live domains                        |
+| 1,000-row public sample | 24,200 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 24 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

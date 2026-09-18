@@ -1,5 +1,4 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-f4386a5e-c581-444b-88fa-00b504563062,creative.review,premium,1250,125,high,medium,8,name.com,,,
 f51c3682-0ff1-4de7-a458-f30d0791df4d,antenatal.review,available,15.73,,high,low,9,namecheap,,,
 e72cf0db-fbd8-4a3f-83dc-f07d702022ef,anti.review,premium,1107,116,medium,low,4,namesilo,,,
 1515a817-65cb-4dc5-9156-b09daf6173ca,rockrecord.review,available,11.99,11.99,high,low,11,namesilo,,,
@@ -65,7 +64,7 @@ ddf8205f-b76a-4e16-a920-4bee67b6403d,childlanguage.review,available,11.99,11.99,
 6fdac7ff-645d-497e-bc49-77cf29ea058f,fuckstruck.review,available,11.99,11.99,medium,low,10,namesilo,,,
 e64f0637-5f30-46f0-9dbb-74a88ef07a86,ricefield.review,premium,437.5,,medium,low,10,name.com,,,
 a6f8ebe0-132a-449b-8d59-a66c530d9d23,theone.review,premium,437.5,,high,low,7,name.com,,,
-c3911c13-12d8-4461-a6e5-b2ae9d0e9bd0,tieup.review,available,15.73,,low,low,6,namecheap,,,
+c3911c13-12d8-4461-a6e5-b2ae9d0e9bd0,tieup.review,available,11.99,11.99,low,low,6,namesilo,,,17/09/2026 14:23
 4f59f25d-1745-42df-adb7-00526ad3ce8f,through.review,premium,125,37.99,high,low,7,name.com,,,
 93001bad-72b0-4907-a60d-0b6d557d0d59,enduring.review,premium,437.5,62.5,low,low,8,name.com,,,
 f584d1d3-2fdb-47ba-a659-d1245ebf7cd6,fiction.review,premium,3125,,high,low,7,name.com,,,
@@ -550,7 +549,7 @@ a11f7fe2-3dad-4c1f-ad40-2e8383f766a6,shelf.review,premium,437.5,,high,low,5,name
 074d604e-f8e9-47a9-a348-3a24d550d036,agonised.review,available,11.99,11.99,low,low,8,namesilo,,,
 d86b3096-6b02-4e7e-9ff0-24664c910dcc,slanting.review,available,11.99,11.99,low,low,8,namesilo,,,07/08/2026 04:20
 7b677cd4-bd4e-4515-9a9b-1a3676e3aa13,fasten.review,premium,437.5,,high,low,6,name.com,,,
-973d6102-863f-4f8e-b26b-d8a50f140655,moveinto.review,available,11.99,11.99,high,low,9,namesilo,,,
+973d6102-863f-4f8e-b26b-d8a50f140655,moveinto.review,available,11.99,11.99,low,low,9,namesilo,,,16/09/2026 16:00
 d6896606-59ba-433b-a2be-108a5d3d02be,mixture.review,premium,1107,116,high,low,7,namesilo,,,
 b90744a5-0c81-4560-a876-416414b5497d,asunder.review,available,11.99,11.99,low,low,7,namesilo,,,07/08/2026 10:20
 50761d3d-587b-4ebf-aca0-44cf3400956e,acetabular.review,available,11.99,11.99,low,low,10,namesilo,,,
@@ -999,3 +998,4 @@ ea63a5ee-5867-4d17-864f-3622b5c8ef97,permutation.review,available,15.73,,low,low
 019a13ea-6cb6-46d3-a11e-ee7a2b5506f0,xxxvii.review,available,11.99,11.99,low,low,6,namesilo,,,
 b233088a-5666-422b-add0-216e25d9c1dc,poker.review,premium,12500,,high,medium,5,name.com,,,
 18ea9313-5c37-4791-bc46-72fc24f33052,fucking.review,premium,1107,116,medium,medium,7,namesilo,,,
+58190c97-685c-443d-b811-3568f29ec90e,christian.review,premium,12500,,high,medium,9,name.com,,,

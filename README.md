@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .review one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,228 domains · **Median ask:** $500.34 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/review`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| aide.review    | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| service.review | resell    | —         | —             | medium         | medium | 7      | GoDaddy.com, LLC |
-| ana.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| chin.review    | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo         |
-| bug.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| clxx.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
-| die.review     | premium   | $625      | —             | medium         | low    | 3      | name.com         |
-| grew.review    | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| dry.review     | premium   | $625      | $81.25        | high           | low    | 3      | name.com         |
-| ISBN.review    | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| fat.review     | premium   | $625      | —             | medium         | low    | 3      | name.com         |
-| lxiv.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
-| gag.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| lxxi.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
-| gee.review     | premium   | $625      | —             | medium         | low    | 3      | name.com         |
-| seat.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
-| hat.review     | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo         |
-| sued.review    | available | $11.99    | $11.99        | low            | low    | 4      | namesilo         |
-| hug.review     | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| quiet.review  | premium   | $1,107    | $116          | high           | low    | 5      | namesilo  |
+| beauty.review | premium   | $3,125    | —             | high           | low    | 6      | name.com  |
+| period.review | premium   | $116      | $29.50        | high           | low    | 6      | namesilo  |
+| aide.review   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| ana.review    | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| chin.review   | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo  |
+| bug.review    | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| clxx.review   | available | $11.99    | $11.99        | low            | low    | 4      | namesilo  |
+| die.review    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| grew.review   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| dry.review    | premium   | $625      | $81.25        | high           | low    | 3      | name.com  |
+| isbn.review   | available | $11.99    | $11.99        | high           | low    | 4      | namesilo  |
+| fat.review    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| lxiv.review   | available | $11.99    | $11.99        | low            | low    | 4      | namesilo  |
+| gag.review    | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| lxxi.review   | available | $11.99    | $11.99        | low            | low    | 4      | namesilo  |
+| gee.review    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| seat.review   | available | $11.99    | $11.99        | low            | low    | 4      | namesilo  |
+| hat.review    | premium   | $640      | $77.35        | low            | low    | 3      | namesilo  |
+| sued.review   | available | $11.99    | $11.99        | low            | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REVIEW One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
